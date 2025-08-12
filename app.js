@@ -11,7 +11,7 @@ function agregarAmigo() {
         amigos.push(nuevoAmigo);
         document.getElementById("amigo").value = "";
 
-        console.log(amigos)
+        actualizarLista()
     }
 }
 
@@ -24,5 +24,14 @@ function sortearAmigo(){
         ganador = amigos[indiceAleatorio];
         
         document.getElementById("resultado").innerHTML = `<li>${ganador}</li>`;
+    }
+}
+
+function actualizarLista(){
+    let lista = document.getElementById("listaAmigos");
+    lista.innerHTML = "";
+
+    for (let i = 0; i < amigos.length; i++){
+        lista.innerHTML += `<li>${amigos[i]}</li>`;
     }
 }
