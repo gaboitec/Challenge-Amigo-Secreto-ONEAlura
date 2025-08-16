@@ -15,10 +15,7 @@
 * [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 * [Acceso al proyecto](#acceso-proyecto)
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
-* [Personas Contribuyentes](#personas-contribuyentes)
 * [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-* [Licencia](#licencia)
-* [Conclusión](#conclusión)
 
 ## Descripcion del proyecto
 El proyecto trata de una aplicación web de una unica página, en el cual se tienen que ingresar varios nombres que se almacenarán y se mostrarán en una lista, posteriormente, al oprimir un botón de acción, se realiza un sorte o se elige al azar un nombre y se mostrá debajo de la lista de manera resaltada. 
@@ -52,4 +49,5 @@ El proyecto cuenta con todas las funciones y validaciones necesarios para su fun
 ## Desarrollador
 | [<img src="https://avatars.githubusercontent.com/u/173518216?v=4" width=115><br><sub>Yefry Garcia</sub>](https://github.com/gaboitec) | 
 | :---: |
+
 
