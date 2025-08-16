@@ -34,11 +34,21 @@ El proyecto cuenta con todas las funciones y validaciones necesarios para su fun
 - `Almacenar amigos`: Cada vez que oprimamos el botón para agregar el nombre de un amigo, éste se guardará en una lista que se puede visualizar debajo de la caja de texto y boton para agregar.
 - `Sortear amigo`: Al final de la lista de los nombres de nuestro amigos, encontraremos un botón que servirá para realizar un proceso de selección pseudo-aleatoria, el cual seleccionará a un amigo entre toda la lista.
 - `Mostrar amigo ganador`: Al presionar el botón para sortear, sobre éste mismo, se mostrará el nombre resaltado en una letra más grande y en color verde el nombre seleccionado/ganador de la lista de nuestros amigos.
+
 ![Amigo Secreto - Screen recorder 2025-08-15 23-47-29](https://github.com/user-attachments/assets/58c18cd2-b18b-46d0-9848-64e01b69e310)
 
 ## 📁 Acceso al proyecto
-**Puedes acceder al proyecto a través del siguiente enlace: **
+**Puedes acceder al proyecto a través del siguiente enlace:**
 ### 🛠️ Abre y ejecuta el proyecto
 **También puedes clonar el repositorio y ejecutar el proyecto con la extensión de Live Server de Visual Studio Code o de tu forma preferida para ejecutarlo localmente**
 
+## 🧰: Tecnologías utilizadas
+* JavaScritp
 
+* HTML5
+
+* CSS
+
+## Desarrollador
+| [<img src="https://avatars.githubusercontent.com/u/173518216?v=4" width=115><br><sub>Yefry Garcia</sub>](https://github.com/gaboitec) | 
+| :---: |
