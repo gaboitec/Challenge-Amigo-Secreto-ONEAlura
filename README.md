@@ -35,7 +35,7 @@ El proyecto cuenta con todas las funciones y validaciones necesarios para su fun
 ![Amigo Secreto - Screen recorder 2025-08-15 23-47-29](https://github.com/user-attachments/assets/58c18cd2-b18b-46d0-9848-64e01b69e310)
 
 ## 📁 Acceso al proyecto
-**Puedes acceder al proyecto a través del siguiente enlace:**
+**Puedes acceder al proyecto a través del siguiente enlace:** https://c-amigo-secreto.netlify.app/
 ### 🛠️ Abre y ejecuta el proyecto
 **También puedes clonar el repositorio y ejecutar el proyecto con la extensión de Live Server de Visual Studio Code o de tu forma preferida para ejecutarlo localmente**
 
@@ -49,5 +49,6 @@ El proyecto cuenta con todas las funciones y validaciones necesarios para su fun
 ## Desarrollador
 | [<img src="https://avatars.githubusercontent.com/u/173518216?v=4" width=115><br><sub>Yefry Garcia</sub>](https://github.com/gaboitec) | 
 | :---: |
+
 
 
